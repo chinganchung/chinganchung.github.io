@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](file:///C:/Users/a9021/Desktop/Career/profile/0929-profile-practice.html)
+[Project 1 Title](/C:/Users/a9021/Desktop/Career/profile/0929-profile-practice.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
