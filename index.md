@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+## Category Name 1 
 
 [Project 1 T](/pdf/0929-profile-practice-1-pharmacuatical.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+## Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
