@@ -1,10 +1,12 @@
 title: Ching-An(Ann) Chung # your name (or website title) here
 logo: "/images/IMG_2124.JPG" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="www.linkedin.com/in/ching-an-chung">LinkedIn Profile</a> 
+description: > # your text below (remove <br> elements if you don't need line breaks)   
   <br><br>
   <br><br>
   First description 
   <br><br>
   Second description 
   <br><br>
+  <a href="www.linkedin.com/in/ching-an-chung">LinkedIn Profile</a>
+
+ theme: jekyll-theme-minimal
