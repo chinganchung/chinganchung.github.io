@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](/projectone)
+[Project 3 Title](/CHUNG,-CHING-AN.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
